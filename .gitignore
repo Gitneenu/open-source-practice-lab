@@ -1,3 +1,5 @@
 __pycache__/
 *.pyc
-# Issue #10: Add .gitignore entries for VS Code
+
+#olangriffin: add vscode to .gitignore
+.vscode/*
